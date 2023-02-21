@@ -1,16 +1,25 @@
-# food_app_flutter_ui
+# Food_Animation_App_Ui_In_Flutter
 
-A new Flutter project.
+#### Github Link : https://github.com/dudecoderr/Food_Animation_App_Ui_In_Flutter.git
 
-## Getting Started
+                               
+# Changelog
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Note: _**last updated january 2023 configured project to latest flutter version 3.7.3**_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="" width="200%">
+</p>
+
+**Packages used:**
+
+ - get: ^4.6.5
+  - flutter_screenutil: ^5.6.1
+  - flutter_zoom_drawer: ^3.0.3
+  - pin_code_fields: ^7.4.0
+  - curved_nav_bar: ^0.0.2
+  - flutter_slidable: ^2.0.0
+  - phlox_animations: ^2.1.1
+  - getwidget: ^3.0.1
